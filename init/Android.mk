@@ -5,8 +5,8 @@ include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
 LOCAL_C_INCLUDES := system/core/init
 LOCAL_CPPFLAGS := -Wall -DANDROID_TARGET=\"$(TARGET_BOARD_PLATFORM)\"
-LOCAL_SRC_FILES := init_j3xnlte.cpp
-LOCAL_MODULE := libinit_j3xnlte
+LOCAL_SRC_FILES := init_j3xlte.cpp
+LOCAL_MODULE := libinit_j3xlte
 
 include $(BUILD_STATIC_LIBRARY)
 
