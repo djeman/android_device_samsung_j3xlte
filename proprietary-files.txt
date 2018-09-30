@@ -233,7 +233,6 @@ lib/libengmode.so
 #vendor/lib/mediadrm/libwvdrmengine.so
 
 # vendor
-firmware/libpn548ad_fw.so
 firmware/vbc_eq
 media/LMspeed_508.emd
 media/PFFprec_600.emd
